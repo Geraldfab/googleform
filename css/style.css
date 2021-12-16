@@ -1,0 +1,43 @@
+.body{
+  font: 15px/1.5 Arial, Helvetica,sans-serif;
+  padding:0;
+  margin:0;
+  background-color: whit
+}
+.highlight{
+	 color:lightgreen;
+  font-weight:bold;
+}
+.top{
+  text-align: center;
+  font-family: Times, serif;
+  font-size:40px;
+}
+.box{
+  border: 2px solid red;
+  border-radius: 4px;
+}
+.button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+.container.{
+width:80%;
+  margin:auto;
+  overflow:hidden;				
+}
+.or{
+  text-align: center;
+  font-family: Times, serif;
+}
+.SignUp{
+	font-family: Times, serif;
+}
